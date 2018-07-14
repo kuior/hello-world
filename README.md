@@ -1,8 +1,7 @@
 # hello-world
 ---
-
-### a new start
-
+## New start
+---
 **Hello** 
 *I am new to here*.
 - kof

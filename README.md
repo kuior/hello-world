@@ -1,3 +1,8 @@
 # hello-world
-a new start
-Hello I am new to here.
+### a new start
+
+**Hello** 
+*I am new to here*.
+- kof
+- nhk
+- bbc
